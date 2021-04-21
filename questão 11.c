@@ -1,0 +1,1 @@
+Professor não tem como fazer a questão 11, ja que o senhor pede pra refazer a mesma: Refaca a quest ̃ao 11, considerando que os limites da faixa (A e B) sejam fornecidos pelo usu ́ario. O programa deve funcionar tanto para A > B quanto para B > A.
